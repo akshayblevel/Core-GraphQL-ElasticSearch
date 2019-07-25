@@ -1,0 +1,22 @@
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.deps.json
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.runtimeconfig.json
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.runtimeconfig.dev.json
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.dll
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.csprojAssemblyReference.cache
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.csproj.CoreCompileInputs.cache
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.AssemblyInfoInputs.cache
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.AssemblyInfo.cs
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.pdb
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.dll
+C:\Users\adityak\Documents\Visual Studio 2017\Projects\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.pdb
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.deps.json
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.runtimeconfig.json
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.runtimeconfig.dev.json
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.dll
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\bin\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.pdb
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.csprojAssemblyReference.cache
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.csproj.CoreCompileInputs.cache
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.AssemblyInfoInputs.cache
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.AssemblyInfo.cs
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.dll
+C:\Users\akshayp\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\CoreGraphQLElasticSearch\obj\Debug\netcoreapp2.0\CoreGraphQLElasticSearch.pdb
